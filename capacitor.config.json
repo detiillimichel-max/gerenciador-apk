@@ -1,11 +1,5 @@
 {
   "appId": "com.detilli.gerenciadorplus",
   "appName": "Gerenciador +",
-  "webDir": "www",
-  "server": {
-    "androidScheme": "https"
-  },
-  "plugins": {
-    "Filesystem": {}
-  }
+  "webDir": "www"
 }
